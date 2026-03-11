@@ -1,6 +1,5 @@
 ->Spotify Music Analysis
-
-A beginner-friendly data analysis project exploring **Spotify music trends** — artist popularity, track duration, and correlations between features.
+Exploratory data analysis on Spotify music trends - artist popularity, track duration, and audio feature correlations using Python, Pandas & Matplotlib.
 
 ->Project Overview
 This project uses Python (Pandas, Matplotlib, Seaborn) to analyze a dataset of Spotify tracks.  
